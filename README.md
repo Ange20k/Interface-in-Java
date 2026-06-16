@@ -33,4 +33,4 @@ Im Main jede Klasse mit normalen Werten erstellt, dann randomize() aufgerufen
 3.Das Ergebnis erscheint automatisch im Run-Fenster unten in IntelliJ
 
 ##Beispielausgabe
-![Beispielausgabe](
+![Beispielausgabe](Screenshot 2026-06-16 155836.png)
