@@ -29,6 +29,7 @@ In jeder Klasse die Methode randomize() mit plausiblen Zufallswerten implementie
 Im Main jede Klasse mit normalen Werten erstellt, dann randomize() aufgerufen
 
 Und Manuell
+
 1.Datei Main.java in IntelliJ geöffnet:
 
 2.Auf den grünen Pfeil ▶️ neben public static void main(String[] args) geklickt
