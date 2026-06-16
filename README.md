@@ -18,7 +18,16 @@ Eine toString()-Methode
 Eine randomize()-Methode mit plausiblen Zufallswerten
 
 Zufallswerte
-Wuerfel: Werte zwischen 1 und 100
-Person: echter Name aus einer Liste, Alter zwischen 1 und 99
-BenotetesModul: gültige deutsche Note (1.0 bis 5.0), 6-stellige Matrikelnummer
+Wuerfel: Breite, Höhe und Tiefe werden zufällig zwischen 1 und 100 gesetzt
+Person: Ein echter Name wird aus einer Liste gewählt, Alter wird zwischen 1 und 99 gesetzt
+BenotetesModul: Nur gültige deutsche Noten (1.0, 1.3 ... 5.0), 6-stellige Matrikelnummer zwischen 100000 und 999999
+
+Wie habe ich das Ergebnis erhalten ?
+
+Interface CanRandomize mit Methode randomize() erstellt
+Drei Klassen mit implements CanRandomize erstellt
+In jeder Klasse die Methode randomize() mit plausiblen Zufallswerten implementiert
+Im Main jede Klasse mit normalen Werten erstellt, dann randomize() aufgerufen
+
+Beispielausgabe
 
