@@ -1,7 +1,7 @@
 ## Beschreibung
-In dieser Aufgabe habe ich eine Schnittstelle ´CanRandomize` und drei Klassen implementiert.
+In dieser Aufgabe habe ich eine Schnittstelle `CanRandomize` und drei Klassen implementiert.
 
-Schnittstelle
+##Schnittstelle
 `CanRandomize` schreibt die Methode `randomize()` vor. Jede Klasse die `implements CanRandomize` sagt, muss diese Methode implementieren.
 
 ## Klassen
@@ -35,12 +35,4 @@ Jede Klasse besitzt:
 ## Beispielausgabe
 ![Beispielausgabe](Screenshot.png)
 
-## Dateistruktur
-```
-src/de/hrw/informatik/oop/assignment6/
-├── CanRandomize.java
-├── Wuerfel.java
-├── Person.java
-├── BenotetesModul.java
-└── Main.java
-```
+
