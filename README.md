@@ -1,5 +1,5 @@
 ## Beschreibung
-In dieser Aufgabe habe ich eine Schnittstelle `CanRandomize` und drei Klassen implementiert.
+In dieser Aufgabe habe ich eine Schnittstelle CanRandomize` und drei Klassen implementiert.
 
 ## Schnittstelle
 `CanRandomize` schreibt die Methode `randomize()` vor. Jede Klasse die `implements CanRandomize` sagt, muss diese Methode implementieren.
