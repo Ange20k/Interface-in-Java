@@ -47,6 +47,20 @@ public class BenotetesModul implements CanRandomize {
         double[] noten = {1.0, 1.3, 1.7, 2.0, 2.3, 2.7, 3.0, 3.3, 3.7, 4.0, 5.0};
         this.note = noten[random.nextInt(noten.length)];
     }
+    public String getNotenText() {
+        if (note == 1.0 || note == 1.3 || note == 1.7) {
+            return "Sehr gut";
+        } else if (note == 2.0 || note == 2.3 || note == 2.7) {
+            return "Gut";
+        } else if (note == 3.0 || note == 3.3 || note == 3.7) {
+            return "Befriedigend";
+        } else if (note == 4.0) {
+            return "Ausreichend";
+        } else {
+            return "Nicht bestanden";
+        }
+    } ""
+
 
     public String toString() {
         return "BenotetesModul [Modul=" + modulName

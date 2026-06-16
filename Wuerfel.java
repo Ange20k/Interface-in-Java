@@ -40,6 +40,9 @@ public class Wuerfel implements CanRandomize {
         this.tiefe  = random.nextDouble(100) + 1;
     }
 
+    public double getVolumen() {
+        return breite * hoehe * tiefe;
+    }
     public String toString() {
         return "Wuerfel [Breite=" + breite
                 + ", Hoehe=" + hoehe
