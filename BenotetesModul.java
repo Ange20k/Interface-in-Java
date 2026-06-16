@@ -59,7 +59,7 @@ public class BenotetesModul implements CanRandomize {
         } else {
             return "Nicht bestanden";
         }
-    } ""
+    }
 
 
     public String toString() {
