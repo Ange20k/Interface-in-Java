@@ -1,4 +1,4 @@
-# Praktikum7-Aufgabe3
+# Interface in Java (Einführung)
  Aufgabe 3: Schnittstellen
 Beschreibung
 In dieser Aufgabe habe ich eine Schnittstelle CanRandomize und drei Klassen implementiert.
