@@ -22,10 +22,3 @@ Wuerfel: Werte zwischen 1 und 100
 Person: echter Name aus einer Liste, Alter zwischen 1 und 99
 BenotetesModul: gültige deutsche Note (1.0 bis 5.0), 6-stellige Matrikelnummer
 
-Dateistruktur
-src/de/hrw/informatik/oop/assignment6/
-├── CanRandomize.java
-├── Wuerfel.java
-├── Person.java
-├── BenotetesModul.java
-└── Main.java
