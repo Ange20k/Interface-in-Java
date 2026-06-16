@@ -33,6 +33,6 @@ Jede Klasse besitzt:
 3. Das Ergebnis erscheint im Run-Fenster unten in IntelliJ
 
 ## Beispielausgabe
-![Beispielausgabe](Screenshot 2026-06-16 155836.png)
+![Beispielausgabe](Screenshot2026-06-1615583.png)
 
 
