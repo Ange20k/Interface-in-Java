@@ -1,7 +1,7 @@
 ## Beschreibung
 In dieser Aufgabe habe ich eine Schnittstelle `CanRandomize` und drei Klassen implementiert.
 
-##Schnittstelle
+Schnittstelle
 `CanRandomize` schreibt die Methode `randomize()` vor. Jede Klasse die `implements CanRandomize` sagt, muss diese Methode implementieren.
 
 ## Klassen
@@ -33,6 +33,6 @@ Jede Klasse besitzt:
 3. Das Ergebnis erscheint im Run-Fenster unten in IntelliJ
 
 ## Beispielausgabe
-![Beispielausgabe](Screenshot.png)
+![Beispielausgabe](Screenshot 2026-06-16 155836.png)
 
 
