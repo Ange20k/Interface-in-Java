@@ -26,6 +26,13 @@ public class Person implements CanRandomize {
     public void setName(String name)   { this.name  = name; }
     public void setAlter(int alter)    { this.alter = alter; }
 
+
+    public boolean isValid() {
+        return name != null
+                && !name.isEmpty()
+                && alter > 0
+                && alter < 150;
+    }
     // Valeurs aléatoires plausibles
     public void randomize() {
         Random random = new Random();
